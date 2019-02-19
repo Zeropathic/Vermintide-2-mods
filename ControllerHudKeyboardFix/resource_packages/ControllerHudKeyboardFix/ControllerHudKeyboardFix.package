@@ -1,0 +1,11 @@
+mod = [
+	"ControllerHudKeyboardFix"
+]
+
+package = [
+	"resource_packages/ControllerHudKeyboardFix/ControllerHudKeyboardFix"
+]
+
+lua = [
+	"scripts/mods/ControllerHudKeyboardFix/*"
+]
